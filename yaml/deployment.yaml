@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rendertron
-        image: chriskolenko/dynamic-ssr:latest
+        image: chriskolenko/dynamic-ssr:0.1.0
         ports: 
         - containerPort: 80
